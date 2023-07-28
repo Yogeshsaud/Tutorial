@@ -1,0 +1,23 @@
+.movieapplayout{
+    background-image: url("myimagesvg.svg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    padding-top: 0;
+    color: white;
+ }
+ .header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+ }
+
+ .firstsection{
+    display: flex;
+ }
